@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+fabíola+lins;I'm+20+years+old;I'm+from+Brazil;I+learning+systems+internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/taylor-swift-ts-taylor-tsukasa-tenma-project-sekai-gif-1474568578222094990" width="350">
+  <img src="<div class="tenor-gif-embed" data-postid="1474568578222094990" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/taylor-swift-ts-taylor-tsukasa-tenma-project-sekai-gif-1474568578222094990">Taylor Swift Ts GIF</a>from <a href="https://tenor.com/search/taylor+swift-gifs">Taylor Swift GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="350">
 </p>
 
 
