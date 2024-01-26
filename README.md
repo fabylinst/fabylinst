@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="![taylor-swift-ts](https://github.com/fabylinst/fabylinst/assets/127262489/09cfd4c7-3ad0-44df-9d11-03b5178f3946)" width="350">
 
 
 <p align="center">
