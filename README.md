@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+fabíola+lins;I'm+20+years+old;I'm+from+Brazil;I+learning+systems+internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 
 <div align="center">  
@@ -24,8 +27,11 @@
   
   ### Studying in this moment:
 <div style="display: inline_block"><br>
-  <img align="center" alt="fabylinsy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
-  <img align="center" alt="fabylinst-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <div> 
 
@@ -33,7 +39,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabylinst}/count.svg" /></p> 
 <br>
-   ![Snake animation](https://github.com/@faby.linst/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b008b&height=120&section=footer"/>
