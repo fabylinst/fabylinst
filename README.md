@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+fabíola+lins;I'm+20+years+old;I'm+from+Brazil;I+learning+systems+internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+![taylor-swift-ts](https://github.com/fabylinst/fabylinst/assets/127262489/09cfd4c7-3ad0-44df-9d11-03b5178f3946)
+
+
 <p align="center">
-  <img src="![taylor-swift-ts](https://github.com/fabylinst/fabylinst/assets/127262489/7f3c5637-b49a-4092-b823-2b6984d13270)
-">
-</p>
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 
 
 <p align="center">
@@ -29,7 +30,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+
 <div> 
 
  <div align="center">
