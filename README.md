@@ -5,8 +5,9 @@
 <div align="center">
   <a href="#"><img src="https://media.tenor.com/FHa4Ty3heo4AAAAM/taylor-swift-ts.gif">
 </div>
-    
-
+    <div
+    [ ![ Gráfico de atividades do github de Ashutosh ] ( https://github-readme-activity-graph.cyclic.app/graph?username=fabylinst&bg_color=0d1117color=ffffff&line=8a2be2&point=2e0042&area=true&hide_border=true )] ( https://github .com/ashutosh00710/github-readme-activity-graph )
+    </div>
   
 <div align="center"> 
 <a href="https://instagram.com/fabi.linst" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
