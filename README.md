@@ -4,9 +4,10 @@
 
 
 
-![taylor-swift-ts](https://github.com/fabylinst/fabylinst/assets/127262489/d7c45377-9856-4d51-b999-0e57f43d77b7width="350px")
-  <img src="https://github-profile-trophy.vercel.app/?username=fabylinst&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+![taylor-swift-ts](https://github.com/fabylinst/fabylinst/assets/127262489/d7c45377-9856-4d51-b999-0e57f43d77b7width="200px")
+
+ 
+ <img src="https://github-profile-trophy.vercel.app/?username=fabylinst&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 
 
 
