@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+fabíola+lins;I'm+20+years+old;I'm+from+Brazil;I+learning+systems+internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="#"><img src="https://github.com/fabylinst/fabylinst/assets/127262489/d7c45377-9856-4d51-b999-0e57f43d77b7">
+  <a href="#"><img src="https://github.com/fabylinst/fabylinst/assets/127262489/d7c45377-9856-4d51-b999-0e57f43d77b7width="200px"">
 </div>
 
 
